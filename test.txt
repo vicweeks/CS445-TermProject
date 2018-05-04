@@ -1,0 +1,2 @@
+{"data_id": 19718, "name": "Jute Scrap", "rarity": 1, "restriction_level": 0, "img": "https://render.guildwars2.com/file/A03B07F2A625FE01B01A59042BDD06C7C5AC30D2/65939.png", "type_id": 5, "sub_type_id": 0, "price_last_changed": "2018-05-03 22:35:15 UTC", 
+"max_offer_unit_price": 73, "min_sale_unit_price": 94, "offer_availability": 621134, "sale_availability": 453980, "sale_price_change_last_hour": 0, "offer_price_change_last_hour": 0, "result_of": []}
