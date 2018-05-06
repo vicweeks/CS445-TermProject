@@ -15,7 +15,7 @@ itemIDs = (19718,19720,19697,19680,19719,19738,19723,19710,
 
 # This function adds current timepoint data to previous data and saves it
 def saveItemTimepoint():
-    now = datetime.datetime.now()
+    now = datetime.now()
     allItems = np.load('itemData.npy')
     for id in itemIDs:
         item = spidy.getItemData(id)
